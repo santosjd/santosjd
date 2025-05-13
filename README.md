@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santosjd, a lifelong learner.
+👋 <b>Hi, I’m @santosjd, a lifelong learner.</b>
 - 👀 I’m interested in tech & science.
 - 🌱 I’m currently learning to write my first line of code.
 - 💞️ I’m looking to collaborate on cool stuff.
