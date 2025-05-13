@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @santosjd
-- 👀 I’m interested in Tech.
+- 👋 Hi, I’m @santosjd, a lifelong learner.
+- 👀 I’m interested in tech & science.
 - 🌱 I’m currently learning to write my first line of code.
 - 💞️ I’m looking to collaborate on cool stuff.
-- 📫 How to reach me? Here on Github.
-- 😄 Pronouns: He
-- ⚡ Fun fact: i don't understand this.
 
 <!---
 santosjd/santosjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
