@@ -5,9 +5,9 @@
 <br>
 <!-- Buttons -->
 <a href="https://linkedin.com/in/santososorio" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" width="100"/>
 </a>
-
+<br>
 <a href="https://josesantos.click" target="_blank">
-  <img src="https://img.shields.io/badge/Website-%23000000.svg?style=flat" alt="Website"/>
+  <img src="https://img.shields.io/badge/-Website-111111?style=flat&labelColor=111111&color=111111" alt="Website" width="100"/>
 </a>
